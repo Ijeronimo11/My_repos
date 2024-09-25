@@ -19,6 +19,5 @@ public class MainClass {
         Car car2 = new Lorry("Грузовик SCANIA", engine, driver, 879, "HIGH WEIGHT", 2000);
         String lorryInfo = car2.toString();
         System.out.println(lorryInfo);
-        System.out.println("JUST FOR GIT");
     }
 }

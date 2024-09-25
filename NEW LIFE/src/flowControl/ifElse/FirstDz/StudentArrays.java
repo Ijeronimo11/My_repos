@@ -1,4 +1,4 @@
-package src.flowControl.ifElse.TRASH;
+package src.flowControl.ifElse.FirstDz;
 
 public class StudentArrays {
     Student[]students = new Student[5];

@@ -1,4 +1,4 @@
-package src.flowControl.ifElse.TRASH;
+package src.flowControl.ifElse.FirstDz;
 
 public class MainClass {
     public static void main(String[] args) {
@@ -13,6 +13,7 @@ public class MainClass {
         students[2] = student3;
         students[3] = student4;
         students[4] = student5;
+
         System.out.println(students[0].getScholarship());
         System.out.println(students[1].getScholarship());
         System.out.println(students[2].getScholarship());
