@@ -1,4 +1,4 @@
-package src.flowControl.ifElse.KAKAGE;
+package src.flowControl.ifElse.SecondDZ;
 
 public class Dog extends Animal {
     public String name;

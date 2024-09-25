@@ -1,9 +1,9 @@
-package src.flowControl.ifElse.KAKAGE;
+package src.flowControl.ifElse.SecondDZ;
 
 public class MainClass {
     public static void main(String[] args) {
         Veterinar vet = new Veterinar();
-        Animal animal1 = new Animal("SKY", "AFRIKA");
+        Animal animal1 = new Animal("PSHENO", "AFRIKA");
         Animal horse = new Horse("OVES", "POLE", "SIVKA-BURKA");
         Animal dog = new Dog("M9SO", "KVARTIRA/ULICA", "BOBIK");
         Animal cat = new Cat("KORM", "KVARTIRA", "SILVA <3");
