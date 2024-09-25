@@ -20,5 +20,6 @@ public class MainClass {
         String lorryInfo = car2.toString();
         System.out.println(lorryInfo);
         System.out.println("JUST FOR GIT");
+        System.out.println("NEW VETKA TEST XD");
     }
 }
